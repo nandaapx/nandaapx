@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1bc05415-060d-4e45-880b-fdcfadb28d05" width="40%" alt="Banner"/>
+  <img src="https://media-bog2-2.cdn.whatsapp.net/v/t61.24694-24/560558615_1736756644430754_5664866316183153238_n.jpg?ccb=11-4&oh=01_Q5Aa4AEjX8jSiZlyEdR5ptiiHwPw20WwTJYMHy-THruvUgrADg&oe=69BEBCA1&_nc_sid=5e03e0&_nc_cat=107" width="40%" alt="Banner"/>
 </p>
 
 ---
@@ -65,6 +65,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Head-Bandage.png" alt="Face with Head-Bandage" width="25" height="25" /> Resolver retos de programación
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Crossed-Out%20Eyes.png" alt="Face with Crossed-Out Eyes" width="25" height="25" /> Escuchar música mientras programo
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" /> Explorar proyectos open source
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /> Meter Tussi
 
 ---
 
