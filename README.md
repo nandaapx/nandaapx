@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-images.dzcdn.net/images/cover/a99e395914d95401fc961406b86c02c8/0x1900-000000-80-0-0.jpg" width="50%" alt="Banner"/>
+  <img src="https://github.com/user-attachments/assets/1bc05415-060d-4e45-880b-fdcfadb28d05" width="40%" alt="Banner"/>
 </p>
 
 ---
