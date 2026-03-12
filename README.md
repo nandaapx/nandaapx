@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width="40%" alt="Banner"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU2Z2VvaGtzOTZoenpjdno2N256aGdpMWZiOTQxb2ZramI0aTAxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwGdwxqXCukhgUmY/giphy.gif" width="100%" alt="Banner"/>
 </p>
 
 ---
