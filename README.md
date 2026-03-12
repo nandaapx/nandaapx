@@ -1,5 +1,6 @@
+</p>
 <p align="center">
-  <img src="https://media-bog2-2.cdn.whatsapp.net/v/t61.24694-24/560558615_1736756644430754_5664866316183153238_n.jpg?ccb=11-4&oh=01_Q5Aa4AEjX8jSiZlyEdR5ptiiHwPw20WwTJYMHy-THruvUgrADg&oe=69BEBCA1&_nc_sid=5e03e0&_nc_cat=107" width="40%" alt="Banner"/>
+  <img src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif" width="40%" alt="Banner"/>
 </p>
 
 ---
