@@ -55,7 +55,7 @@
 
 ## 🛠️ Tecnologías
 
-![Tech](https://skillicons.dev/icons?i=python,html,java,css,linux,windows)
+![Tech](https://skillicons.dev/icons?i=python,html,cs,linux,windows)
 
 ---
 
