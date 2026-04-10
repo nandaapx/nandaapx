@@ -72,7 +72,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Redes
 
-[Instagram] (https://www.instagram.com/addu.16.1?igsh=M29kYXJjYm10Mmk4)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Biting%20Lip.png" alt="Biting Lip" width="25" height="25" />
+[Instagram] (https://www.instagram.com/jhaalaldev_?igsh=M29kYXJjYm10Mmk4)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Biting%20Lip.png" alt="Biting Lip" width="25" height="25" />
 
 [GitHub] (https://github.com/nandaapx) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
 
