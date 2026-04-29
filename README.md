@@ -8,29 +8,27 @@
 
 <div align="center">
 
-### 👋 Hola, soy **Nuñez**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" alt="Raising Hands Light Skin Tone" width="50" height="50" /> Hola, soy **Nuñez**
 
-```
-💻 Desarrollador apasionado por construir soluciones reales con código limpio.
-🎯 Enfocado en automatización, desarrollo web e inteligencia artificial.
-🌱 En constante aprendizaje — siempre hay algo nuevo que dominar.
-```
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" /> Desarrollador apasionado por construir soluciones reales con código limpio.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Bowing%20Light%20Skin%20Tone.png" alt="Person Bowing Light Skin Tone" width="50" height="50" /> Enfocado en automatización, desarrollo web e inteligencia artificial.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Snowboarder.png" alt="Snowboarder" width="50" height="50" /> En constante aprendizaje — siempre hay algo nuevo que dominar.
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="50" height="50" /> Sobre mí
 
 <table>
 <tr>
 <td width="60%" valign="top">
-
-🚀 Actualmente aprendiendo **C# y Java** para expandir mi stack  
-🤖 Apasionado por la **automatización** y la **inteligencia artificial**  
-🌐 Interesado en **desarrollo web** y arquitecturas modernas  
-🤝 Abierto a colaborar en proyectos **open source**  
-📬 Contacto: `addununeznunezavila@gmail.com`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" /> Actualmente aprendiendo **C# y Java** para expandir mi stack  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="50" height="50" /> Apasionado por la **automatización** y la **inteligencia artificial**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" alt="Hourglass Not Done" width="50" height="50" /> Interesado en **desarrollo web** y arquitecturas modernas  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="50" height="50" /> Abierto a colaborar en proyectos **open source**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="50" height="50" /> Contacto: `addununeznunezavila@gmail.com`
 
 </td>
 <td width="40%" align="center" valign="top">
@@ -43,9 +41,9 @@
 
 ---
 
-## 💼 Stack Tecnológico
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="50" height="50" /> Stack Tecnológico
 
-### 🖥️ Lenguajes de Programación
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" /> Lenguajes de Programación
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cs,html,css" />
@@ -53,14 +51,14 @@
 
 | Lenguaje | Nivel | Uso principal |
 |----------|-------|---------------|
-| 🐍 Python | ⭐⭐⭐⭐ Avanzado | Automatización, scripting, data |
-| ☕ Java | ⭐⭐⭐ Intermedio | En aprendizaje activo |
-| 🔷 C# | ⭐⭐⭐ Intermedio | En aprendizaje activo |
-| 🌐 HTML/CSS | ⭐⭐⭐ Intermedio | Desarrollo web |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Python | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Avanzado | Automatización, scripting, data |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" /> Java | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Intermedio | En aprendizaje activo |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" /> C# | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Intermedio | En aprendizaje activo |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Water Wave" width="25" height="25" /> HTML/CSS |<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Intermedio | Desarrollo web |
 
 ---
 
-### 📊 Manejo de Datos
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" /> Manejo de Datos
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -70,27 +68,27 @@
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-- 🗄️ **MySQL** — Diseño y consulta de bases de datos relacionales
-- 📊 **Power BI** — Visualización y reportes de datos
-- 🔄 **Power Query** — Transformación y limpieza de datos
-- 📈 **Excel avanzado** — Análisis, tablas dinámicas, automatización con macros
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> **MySQL** — Diseño y consulta de bases de datos relacionales
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **Power BI** — Visualización y reportes de datos
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> **Power Query** — Transformación y limpieza de datos
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Chart Decreasing" width="25" height="25" /> **Excel avanzado** — Análisis, tablas dinámicas, automatización con macros
 
 ---
 
-### 🛠️ Herramientas y Entorno
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="25" height="25" /> Herramientas y Entorno
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,linux,windows,git,github" />
 </p>
 
-- 🪟 **Windows** — Entorno principal de desarrollo
-- 🐧 **Linux** — Administración y scripting
-- 💻 **VS Code** — Editor preferido con extensiones personalizadas
-- 🔀 **Git / GitHub** — Control de versiones y colaboración
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> **Windows** — Entorno principal de desarrollo
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" /> **Linux** — Administración y scripting
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="25" height="25" /> **VS Code** — Editor preferido con extensiones personalizadas
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" width="25" height="25" /> **Git / GitHub** — Control de versiones y colaboración
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="25" height="25" /> GitHub Stats
 
 <div align="center">
 
@@ -108,24 +106,24 @@
 
 ---
 
-## 🎮 Hobbies & Intereses
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Hobbies & Intereses
 
 <table>
 <tr>
-<td>🎮 Videojuegos</td>
-<td>📚 Leer sobre tecnología</td>
-<td>🧩 Resolver retos de programación</td>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Videojuegos</td>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="25" height="25" /> Leer sobre tecnología</td>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" /> Resolver retos de programación</td>
 </tr>
 <tr>
-<td>🎵 Música mientras programo</td>
-<td>🔍 Explorar proyectos open source</td>
-<td>🤖 Experimentar con IA</td>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> Música mientras programo</td>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Helicopter.png" alt="Helicopter" width="25" height="25" /> Explorar proyectos open source</td>
+<td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" alt="Snowman" width="25" height="25" /> Experimentar con IA</td>
 </tr>
 </table>
 
 ---
 
-## 🌐 Redes & Contacto
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Rain%20Cloud.png" alt="Sun Behind Rain Cloud" width="25" height="25" /> Redes & Contacto
 
 <div align="center">
 
@@ -137,11 +135,12 @@
 
 ---
 
-## 💬 Filosofía
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tornado.png" alt="Tornado" width="25" height="25" /> Filosofía
 
 <div align="center">
 
 > *"Tú decides si tu día será increíble."*
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" />*"You are my person."*
 
 </div>
 
