@@ -1,83 +1,156 @@
-</p>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU2Z2VvaGtzOTZoenpjdno2N256aGdpMWZiOTQxb2ZramI0aTAxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwGdwxqXCukhgUmY/giphy.gif" width="100%" alt="Banner"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nuñez&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+### 👋 Hola, soy **Nuñez**
+
+```
+💻 Desarrollador apasionado por construir soluciones reales con código limpio.
+🎯 Enfocado en automatización, desarrollo web e inteligencia artificial.
+🌱 En constante aprendizaje — siempre hay algo nuevo que dominar.
+```
+
+</div>
+
+---
+
+## 🧠 Sobre mí
 
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="70%" valign="top">
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands%20Light%20Skin%20Tone.png" width="50" height="50"/> Biografia de **Nuñez**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="50" /> Desarrollador apasionado por la tecnología y la creación de soluciones mediante software.
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="50" /> Actualmente aprendiendo: **C# / Java**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="25" height="50" /> Intereses: **automatización, desarrollo web, IA**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="50" /> Abierto a colaborar en **open source**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Selfie%20Light%20Skin%20Tone.png" alt="Selfie Light Skin Tone" width="25" height="50" /> Contacto: **addununeznunezavila@gmail.com**
+🚀 Actualmente aprendiendo **C# y Java** para expandir mi stack  
+🤖 Apasionado por la **automatización** y la **inteligencia artificial**  
+🌐 Interesado en **desarrollo web** y arquitecturas modernas  
+🤝 Abierto a colaborar en proyectos **open source**  
+📬 Contacto: `addununeznunezavila@gmail.com`
 
 </td>
+<td width="40%" align="center" valign="top">
 
-<td width="30%" align="center" valign="middle">
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-6eSVgzjSRlSjHLGm0mWEWtzQJfY69jRXg&s" width="200"/>
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </td>
-
 </tr>
 </table>
 
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="50" /> Conocimientos
+## 💼 Stack Tecnológico
 
-**Lenguajes**
-- Python <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-- Java <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-- C# <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+### 🖥️ Lenguajes de Programación
 
-**Manejo de Datos**
-- MYSQL <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-- PBI <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confounded%20Face.png" alt="Confounded Face" width="25" height="25" />
-- PP <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cold%20Face.png" alt="Cold Face" width="25" height="25" />
-- PQ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="25" height="25" />
-- EXCEL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Crossed-Out%20Eyes.png" alt="Face with Crossed-Out Eyes" width="25" height="25" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,html,css" />
+</p>
 
-**Herramientas**
-- Antigravity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sneezing%20Face.png" alt="Sneezing Face" width="25" height="25" />
-- Windows <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-- Linux <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-- VS Code <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+| Lenguaje | Nivel | Uso principal |
+|----------|-------|---------------|
+| 🐍 Python | ⭐⭐⭐⭐ Avanzado | Automatización, scripting, data |
+| ☕ Java | ⭐⭐⭐ Intermedio | En aprendizaje activo |
+| 🔷 C# | ⭐⭐⭐ Intermedio | En aprendizaje activo |
+| 🌐 HTML/CSS | ⭐⭐⭐ Intermedio | Desarrollo web |
 
 ---
 
-## 🛠️ Tecnologías
+### 📊 Manejo de Datos
 
-![Tech](https://skillicons.dev/icons?i=python,html,cs,linux,windows)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
----
-
-## 🎯 Hobbies e intereses
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Woozy%20Face.png" alt="Woozy Face" width="25" height="25" /> Videojuegos
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /> Leer sobre tecnología
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Head-Bandage.png" alt="Face with Head-Bandage" width="25" height="25" /> Resolver retos de programación
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Crossed-Out%20Eyes.png" alt="Face with Crossed-Out Eyes" width="25" height="25" /> Escuchar música mientras programo
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" /> Explorar proyectos open source
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /> Meter Tussi
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Redes
-
-[Instagram] (https://www.instagram.com/jhaalaldev_?igsh=M29kYXJjYm10Mmk4)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Biting%20Lip.png" alt="Biting Lip" width="25" height="25" />
-
-[GitHub] (https://github.com/nandaapx) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+- 🗄️ **MySQL** — Diseño y consulta de bases de datos relacionales
+- 📊 **Power BI** — Visualización y reportes de datos
+- 🔄 **Power Query** — Transformación y limpieza de datos
+- 📈 **Excel avanzado** — Análisis, tablas dinámicas, automatización con macros
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Lightning%20and%20Rain.png" alt="Cloud with Lightning and Rain" width="25" height="25" /> Filosofía
+### 🛠️ Herramientas y Entorno
 
-> "Tu decides si tu dia sera increible." <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yawning%20Face.png" alt="Yawning Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,windows,git,github" />
+</p>
+
+- 🪟 **Windows** — Entorno principal de desarrollo
+- 🐧 **Linux** — Administración y scripting
+- 💻 **VS Code** — Editor preferido con extensiones personalizadas
+- 🔀 **Git / GitHub** — Control de versiones y colaboración
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandaapx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaapx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nandaapx&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🎮 Hobbies & Intereses
+
+<table>
+<tr>
+<td>🎮 Videojuegos</td>
+<td>📚 Leer sobre tecnología</td>
+<td>🧩 Resolver retos de programación</td>
+</tr>
+<tr>
+<td>🎵 Música mientras programo</td>
+<td>🔍 Explorar proyectos open source</td>
+<td>🤖 Experimentar con IA</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Redes & Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-nandaapx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandaapx)
+[![Instagram](https://img.shields.io/badge/Instagram-jhaalaldev__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhaalaldev_)
+[![Email](https://img.shields.io/badge/Email-addununeznunezavila%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addununeznunezavila@gmail.com)
+
+</div>
+
+---
+
+## 💬 Filosofía
+
+<div align="center">
+
+> *"Tú decides si tu día será increíble."*
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nandaapx.nandaapx&left_color=302b63&right_color=24243e)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
