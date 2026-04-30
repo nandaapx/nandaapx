@@ -75,7 +75,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="25" height="25" /> Herramientas y Entorno
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="50" height="50" /> Herramientas y Entorno
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,linux,windows,git,github" />
@@ -88,7 +88,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="25" height="25" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="50" height="50" /> GitHub Stats
 
 <div align="center">
 
